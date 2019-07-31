@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffcdd2</color>
+    <color name="colorPrimaryDark">#cb9ca1</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <!-- 결과 화면 -->
+    <color name="colorPrimaryResult">#ffcdd2</color>
+    <color name="colorPrimaryDarkResult">#cb9ca1</color>
+    <color name="colorAccentResult">#ffffff</color>
+
+    <color name="colorPrimaryConstellation">#e1bee7</color>
+    <color name="colorPrimaryDarkConstellation">#af8eb5</color>
+    <color name="colorAccentConstellation">#fff1ff</color>
+    <color name="colorContentConstellation">#9e9e9e</color>
+    <color name="colorButtonConstellation">#9c64a6</color>
+
+    <color name="colorPrimaryName">#ffb74d</color>
+    <color name="colorPrimaryDarkName">#c77800</color>
+    <color name="colorAccentName">#ffe97d</color>
+    <color name="colorContentName">#ffcc80</color>
+    <color name="colorButtonName">#ef6c00</color>
+</resources>
